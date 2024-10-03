@@ -1,7 +1,7 @@
 # Website-Top-Navigation-bar
 guide you make a website top Navigation bar
 
-网站万能导航栏，改一下颜色，不需要的代码注释掉即可，以后要用直接放出来！
+网站万能导航栏，改一下颜色和文字，不需要的代码注释掉即可，以后要用直接放出来！
 
 html5+css代码
 
