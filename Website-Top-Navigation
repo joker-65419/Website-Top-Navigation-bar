@@ -1,39 +1,39 @@
-# Website-Top-Navigation-bar
-guide you make a website top Navigation bar
+#  网站顶端导航栏
+指导你建立一个网站顶级导航酒吧
 
 网站万能导航栏，改一下颜色和文字，不需要的代码注释掉即可，以后要用直接放出来！
 
-html5+css代码
+HTML5+Csû
 
-<div class="aa">
+<Div 等级="AA">
 
-        <p>西安网站建设 | 西安网站制作 | 西安网站设计 | 小程序开发 | 胸弟网络 - 网站建设十余年经验，更值得信赖！</p>
+          <p>西安网站建设 | 西安网站制作 | 西安网站设计 | 小程序开发 | 胸弟网络 - 网站建设十余年经验，更值得信赖！</p>  
 
     </div>
 
 
 
-    <div class="a1">
+    <divñ�="a1">
 
-        <div class="a2"><img src="imgs/logo1.png" alt=""></div>
+     <devnaken="a2"><imgsrc="imgs/logo1.png"Alt="></div> 
 
-        <div class="a3">
+     <divñ�="a3"> 
 
-            <p>网站建设咨询热线 :</p>
+              <p>网站建设咨询热线 :</p>  
 
-            <p>029-000000</p>
+     <p>029-000000</p> 
 
-            <p>029-000000</p>
+     <p>029-000000</p> 
 
-        </div>
+     </div> 
 
-        <div class="a4">
+     <divñ�="a4"> 
 
-            <br>
+     <br> 
 
-            <img src="imgs/icophone.gif" alt=""><br>
+     <img Src="imgs/icophone.gif"Alt="><br> 
 
-            &nbsp;<img src="imgs/t2.png" alt="">
+     &nbsp;<imgsrc="imgs/t2.png"Alt="> 
 
         </div>
 
